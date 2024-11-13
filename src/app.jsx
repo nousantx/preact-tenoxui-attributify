@@ -42,7 +42,7 @@ export function App() {
       <main>
         <header>
           <h1>Hello world, its a great day to try tenoxui!</h1>
-          <p class="mt-1rem">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+          <p mt="1rem">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
         </header>
       </main>
     </>
